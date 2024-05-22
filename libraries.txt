@@ -12,3 +12,5 @@
 # flask-migrate
  # pip install Flask-Migrate
 
+# flask-login
+ # pip install flask-login

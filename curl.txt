@@ -1,0 +1,23 @@
+curl -X POST -H "Content-Type: application/json" -d "{\"username\":\"franco\", \"password\":\"franco-jajajaja\"}" https://9000-idx-backend-documenta-1716326000540.cluster-vpxjqdstfzgs6qeiaf7rdlsqrc.cloudworkstations.dev/api/v1/auth/login
+[
+    {
+        "id": 1,
+        "username": "user1"
+    },
+    {
+        "id": 2,
+        "username": "user2"
+    }
+]
+
+
+[
+{usuario1
+"id": 1,
+"username": "user1"
+},
+{
+"id": 2,
+"username": "user2"
+}
+]
