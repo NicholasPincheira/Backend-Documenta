@@ -1,0 +1,14 @@
+# LIBRARIES
+
+# SQL FLASK-ADMIN
+ # pip install Flask-Admin
+
+# SQLALchemy
+ # pip install Flask-SQLAlchemy
+
+# alembic
+ # pip install alembic
+
+# flask-migrate
+ # pip install Flask-Migrate
+

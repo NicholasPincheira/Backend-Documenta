@@ -1,3 +1,4 @@
 #!/bin/sh
 source .venv/bin/activate
-python main.py
+python -m flask --app src/main run -p $PORT --debug
+flask init-db
